@@ -1,2 +1,2 @@
 # BSc
-My Bachelor thesis code 
+The code for my Bachelor Thesis
